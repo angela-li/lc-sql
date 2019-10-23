@@ -48,6 +48,8 @@ ____
         so we have a better idea of what to teach and how to teach it.
     3.  NoSQL databases are as different from each other as they are from relational databases.
         Until a leader emerges, it isn't clear *which* NoSQL database we should teach.
+        
+ * Beginners have trouble with subsetting data
 
 ## Resources
 
